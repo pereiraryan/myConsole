@@ -30,3 +30,4 @@ Add a download button - to save the code as *file.js*.
 Add a share button - to share via e-mail, whatsapp... a code solution with your friends (or classmates).
 
 Do the above things without disturbing the minimalist design.
+# myConsole
